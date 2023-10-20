@@ -1,4 +1,4 @@
-# WTF-skins-data-analyzing
+# WTF-skins-data-analyzing using selenium
 
 website: wtfskins.com
 
